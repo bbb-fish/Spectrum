@@ -1,5 +1,8 @@
 
 # -*- coding: utf-8 -*-
+
+#https://github.com/bbb-fish/Spectrum.git
+
 """
 Created on Thurs September 27th
 @author: P2813634
