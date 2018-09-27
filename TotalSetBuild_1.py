@@ -27,7 +27,7 @@ MINTRX = 100
 PROCESSORS = 8
 CHTR_DAYS=6
 
-dir = '/nf/home/pxrao/GIT/AnomalyDetection'
+dir = '/nf/home/fish/git/AnomalyDetection/Spectrum'
 yesterday = date.today() - timedelta(1)
 currDate = date.today()
 yyyymmdd = currDate.strftime('%Y%m%d')
